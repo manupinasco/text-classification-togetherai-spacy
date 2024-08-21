@@ -1,7 +1,3 @@
----
-title: Comparative Analysis of Text Topic Classification Approaches
----
-
 # Comparative Analysis of Text Topic Classification Approaches
 
 A comparative analysis of four different approaches to text topic classification, aiming to classify a text into one of the following categories: **World**, **Sports**, **Business**, or **Sci/Tech**.
