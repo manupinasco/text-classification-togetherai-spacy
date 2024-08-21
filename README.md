@@ -1,12 +1,5 @@
 ---
 title: Comparative Analysis of Text Topic Classification Approaches
-emoji: 📚
-colorFrom: purple
-colorTo: blue
-sdk: streamlit
-sdk_version: "1.10.0"
-app_file: app.py
-pinned: false
 ---
 
 # Comparative Analysis of Text Topic Classification Approaches
